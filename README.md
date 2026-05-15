@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, This is MD Mizanur Rahman
 
-<!--
-**Mizanur2346/Mizanur2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am passionate about software development and web technologies. 
+I enjoy building modern applications and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- React
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Resume Builder Application
+- AI Resume Builder
+
+
+## Currently Learning
+- Advanced Web Development
+- Full Stack Development
+
+## Contact
+- Email: mizanurrahmanmr2346@gmail.com

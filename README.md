@@ -16,7 +16,7 @@ I enjoy building modern applications and continuously learning new technologies.
 ## Projects
 - AI Resume Builder
 - StudyMate
-- AI-Chatbox
+- mr-market-ai
 - AI Rag
   
 

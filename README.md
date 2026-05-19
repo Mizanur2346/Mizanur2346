@@ -14,8 +14,11 @@ I enjoy building modern applications and continuously learning new technologies.
 - Git & GitHub
 
 ## Projects
-- Resume Builder Application
 - AI Resume Builder
+- StudyMate
+- AI-Chatbox
+- AI Rag
+  
 
 
 ## Currently Learning
